@@ -1,0 +1,10 @@
+2018-11-15 15:02:01,674 - INFO - break url:  http://bj.ganji.com/bangong/36119586639123x.htm
+2018-11-15 15:04:16,815 - INFO - break url:  http://bj.ganji.com/bangong/36119532007686x.htm
+2018-11-15 15:42:06,595 - INFO - break url:  http://bj.ganji.com/bangong/36119586639123x.htm
+2018-11-15 15:42:55,287 - INFO - break url:  http://bj.ganji.com/bangong/36119532007686x.htm
+2018-11-15 15:44:56,743 - INFO - break url:  http://bj.ganji.com/bangong/36119549646660x.htm
+2018-11-15 15:45:08,192 - INFO - All items had done.
+2018-11-15 15:46:56,496 - INFO - break url:  http://bj.ganji.com/bangong/36119532007686x.htm
+2018-11-15 15:46:56,515 - INFO - break url:  http://bj.ganji.com/bangong/36119549646660x.htm
+2018-11-15 15:46:56,520 - INFO - break url:  http://bj.ganji.com/bangong/36119586639123x.htm
+2018-11-15 15:46:56,710 - INFO - All items had done.
